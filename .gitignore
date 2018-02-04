@@ -26,3 +26,12 @@ www-test/
 
 #old GWT (1.5) created this dir
 .gwt-tmp/
+
+.idea
+.idea_modules
+idea.bat
+out
+target
+*.iml
+atlassian-ide-plugin.xml
+log  
